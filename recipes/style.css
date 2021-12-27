@@ -1,0 +1,23 @@
+/* style.css */
+
+
+
+h1, h2, h3{
+    font: "Times New Roman";
+    background-color: bisque;
+    color: salmon;
+    
+    }
+
+#page2 {
+
+  height: auto;
+  width: 250px;
+
+}
+
+#page3 {
+
+    height: auto;
+    width: 450px;
+}
